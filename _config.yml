@@ -13,9 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Yijing Chen # author name
   bio: >- # tell to the world
-    “Gravity will reassemble all \\
-    but the fastest pieces \\
-    into a rubble pile.”
+    “Gravity will reassemble all but the fastest pieces into a rubble pile.”
   # username: username # general username
   github: yijingch # github username
   # twitter: twitter_username # twitter username
