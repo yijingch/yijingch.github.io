@@ -13,12 +13,12 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Yijing Chen # author name
   bio: >- # tell to the world
-    “Gravity will reassemble all but the fastest pieces into a rubble pile.”
+    “さようなら遊び場”
   # username: username # general username
   github: yijingch # github username
   # twitter: twitter_username # twitter username
   # facebook: facebook_username # facebook username
-  email: yijingch@email.com # email adress
+  email: yijing2022@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
