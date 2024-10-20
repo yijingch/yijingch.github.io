@@ -1,11 +1,5 @@
----
-layout: default
----
+# random facts
 
-# notes
+## 2024
 
-## head1
-
-### head2
-
-placeholder 
+- October 
