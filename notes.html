@@ -7,6 +7,8 @@ layout: default
 		{% include nav.html %}
 	</section>
     <section>
-        {% include notes.md %}
+        {% capture my_include %}{% include notes.md %}{% endcapture %}
+        {{ my_include | markdownify }}
+        <!-- {% include notes.md %} -->
     </section>
 </div>
