@@ -1,5 +1,3 @@
-# random facts
+# random facts and quotes
 
-## 2024
-
-- October 
+- October 20, 2024:
