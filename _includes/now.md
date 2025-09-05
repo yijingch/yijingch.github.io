@@ -4,6 +4,12 @@ A page to document what I'm working on now. Nownownow around the world is [here]
 
 ## 2025
 
+### September 
+
+- settling in my postdoc at Annenberg and brainstorming the next project(s)
+- trying to figure out a new training routine
+- reading about political cognition and belief systems
+
 ### June
 
 - (finally!) wrapping up my dissertation
