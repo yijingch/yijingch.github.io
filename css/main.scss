@@ -46,3 +46,13 @@ $on-:              800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// custom styles
+.homepage-title {
+  color: $link-color;          // or any color you like
+  font-size: 3rem;             // larger than base
+  font-weight: 600;            // make it bold
+  text-align: center;          // center on the page
+  font-family: $base-font-family;
+  margin-bottom: $spacing-unit;
+}
