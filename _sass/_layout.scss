@@ -52,17 +52,17 @@
     font-size: 1.5rem;
     font-weight: bold;
 
-    a,
-    a:hover {
-        text-decoration: none;
-        letter-spacing: 2px;
-        background-color: #fff;
-        color: #eee;
-        padding-left: 0.5rem;
-        padding-right: 0.5rem;
-        padding-top: 0.2rem;
-        padding-bottom: 0.2rem;
-    }
+    // a,
+    // a:hover {
+    //     text-decoration: none;
+    //     letter-spacing: 2px;
+    //     background-color: #fff;
+    //     color: #eee;
+    //     padding-left: 0.5rem;
+    //     padding-right: 0.5rem;
+    //     padding-top: 0.2rem;
+    //     padding-bottom: 0.2rem;
+    // }
 }
 
 .site-title {
@@ -70,6 +70,10 @@
   font-size: 3rem;         // bigger text
   text-decoration: none;   // remove underline from link
   font-weight: 600;        // bold
+
+  &:hover {
+    color: #2a9d8f;   // give it a hover color
+  }
 }
 
 /**
