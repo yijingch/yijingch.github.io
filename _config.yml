@@ -1,6 +1,6 @@
 # Site settings
 title: "yijing chen"
-description: "Ph.D. candidate in Network Science"
+description: "postdoc at University of Pennsylvania"
 baseurl: "/" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: "https://yijingch.github.io"
 author: "@yijingch"
