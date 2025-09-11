@@ -76,6 +76,16 @@
   }
 }
 
+.site-nav {
+  font-size: 1.2rem;   // increase text size (try 1.5rem or bigger if you like)
+  font-weight: 500;    // make it slightly bolder (optional)
+  letter-spacing: 0.05em; // add spacing between letters (optional)
+
+  a:hover {
+    color: #7e82b5;         // hover color
+  }
+}
+
 /**
  * Page content
  */
