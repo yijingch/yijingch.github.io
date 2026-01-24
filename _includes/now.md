@@ -4,6 +4,12 @@ A page to document what I'm working on now. Nownownow around the world is [here]
 
 ## 2025
 
+### December
+
+- ordering furniture and planning for the move 
+- frantically cooking dumplings 
+- reading about critical mass and social movement
+
 ### September 
 
 - settling in my postdoc at Annenberg and brainstorming the next project(s)
